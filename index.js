@@ -1,3 +1,4 @@
+// https://assignment-10-client-sepia.vercel.app/allchefdata
 const express = require("express");
 const app = express();
 const cors = require("cors");
@@ -9,7 +10,6 @@ const chefData = require("./chefData.json");
 app.get("/", (req, res) => {
   res.send("Hello World!");
 });
-
 app.get("/allchefdata", (req, res) => {
   res.send(chefData);
 });
