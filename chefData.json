@@ -4,7 +4,7 @@
     {
       "id": 1,
       "chef_name": "Li Ping",
-      "chef_picture": "https://img.freepik.com/free-photo/satisfied-professional-male-chef-cook-white-uniform-cook-hat-standing-with-arms-crossed-looking-confident-green-background_141793-20656.jpg?w=1380&t=st=1683103364~exp=1683103964~hmac=b10388418306870697067ba5f6e8bf9783f5d457512cf2083b69189de9f93011",
+      "chef_picture": "https://img.freepik.com/free-photo/young-pleased-afro-american-cook-chef-uniform-crosses-arms-points-side-isolated-orange-wall_141793-33303.jpg?size=626&ext=jpg&ga=GA1.1.1939327928.1683293827&semt=sph",
       "years_of_experience": 10,
       "num_recipes": 150,
       "likes": 5000,
@@ -70,7 +70,7 @@
     {
       "id": 2,
       "chef_name": "Sofia Gomez",
-      "chef_picture": "https://img.freepik.com/free-photo/shot-professional-old-chef-dressed-uniform-holding-kitchen-spatula-tongs_613910-17564.jpg?w=1380&t=st=1683103393~exp=1683103993~hmac=e17494c305d5a603604e93dcabaf3e492036407eabd309d70ece50ea0035dce0",
+      "chef_picture": "https://img.freepik.com/premium-photo/portrait-young-woman-chef-background_488220-23689.jpg?size=626&ext=jpg",
       "years_of_experience": 8,
       "num_recipes": 75,
       "likes": 2300,
@@ -143,7 +143,7 @@
     {
       "id": 3,
       "chef_name": "Antonio Rossi",
-      "chef_picture": "https://img.freepik.com/free-photo/chef-posing-with-knife-his-kitchen_155003-502.jpg?w=1380&t=st=1683103411~exp=1683104011~hmac=904def73a104e8fce78ef3fe344bdb0c190d275566ec8c4b6046869d69225022",
+      "chef_picture": "https://img.freepik.com/free-photo/studio-portrait-cook-man-with-fresh-vegetables-table_613910-9893.jpg?size=626&ext=jpg",
       "years_of_experience": 15,
       "num_recipes": 200,
       "likes": 6000,
@@ -215,7 +215,7 @@
     {
       "id": 4,
       "chef_name": "Rita Patel",
-      "chef_picture": "https://img.freepik.com/free-photo/studio-portrait-cook-man-with-fresh-vegetables-table_613910-10050.jpg?w=1380&t=st=1683103430~exp=1683104030~hmac=4fc21f37c5ead5a0814ed7fc368e0c1757fd1ee036fb0db108a806fa49f1afc5",
+      "chef_picture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-showing-thumbs-up_171337-5330.jpg?size=626&ext=jpg",
       "years_of_experience": 8,
       "num_recipes": 120,
       "likes": 4200,
@@ -266,7 +266,7 @@
     {
       "id": 5,
       "chef_name": "Maria Sanchez",
-      "chef_picture": "https://img.freepik.com/free-photo/chef-holding-pan-with-fire-inside_144627-16644.jpg?w=1380&t=st=1683103446~exp=1683104046~hmac=aa9181e54f68be5e16dddd0948b9b160bafdfe405f265c09c0fdf5788d7c97a9",
+      "chef_picture": "https://t4.ftcdn.net/jpg/01/86/60/51/360_F_186605168_mNGYB4I4Ze9mn9q9kJr9jmobXfTjsFsU.webp",
       "years_of_experience": 8,
       "num_recipes": 100,
       "likes": 4000,
@@ -340,7 +340,7 @@
     {
       "id": 6,
       "chef_name": "Juan Perez",
-      "chef_picture": "https://img.freepik.com/free-photo/bearded-master-chef-prepares-fresh-salmon_496169-111.jpg?w=1380&t=st=1683103468~exp=1683104068~hmac=97fffd167d19a14ad7c1e1a3f940c4d95d4591f4227827ece4073920b611523e",
+      "chef_picture": "https://img.freepik.com/free-photo/chef-with-thumb-up-white-background_1368-2842.jpg?size=626&ext=jpg&ga=GA1.2.1939327928.1683293827&semt=sph",
       "years_of_experience": 15,
       "num_recipes": 200,
       "likes": 6000,
