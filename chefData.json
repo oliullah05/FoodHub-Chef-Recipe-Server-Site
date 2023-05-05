@@ -1,12 +1,12 @@
 [
     {
       "id": 1,
-      "chef_name": "Li Ming",
+      "chef_name": "Li Laren",
       "chef_picture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5343.jpg?w=1380&t=st=1683103172~exp=1683103772~hmac=e4384a8570879e38c3d11003bdcf25c3a92165edb54cf3e7d08af7e1b10e876e",
       "years_of_experience": 10,
       "num_recipes": 150,
       "likes": 5000,
-      "short_bio": "Li Ming is a master chef from Beijing with over 10 years of experience in traditional Chinese cuisine. He has won numerous awards for his innovative dishes and is known for his use of fresh, locally-sourced ingredients.",
+      "short_bio": "Li Laren is a master chef from Beijing with over 10 years of experience in traditional Chinese cuisine. He has won numerous awards for his innovative dishes and is known for his use of fresh, locally-sourced ingredients.",
       "recipes": [
         {
           "recipe_name": "Kung Pao Chicken",
